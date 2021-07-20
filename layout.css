@@ -1,0 +1,27 @@
+.do {
+	background-color: teal;
+	height: 40px;
+	margin-bottom: 20px;
+}
+
+.re {
+	background-color: teal;
+	height: 200px;
+	margin-bottom: 20px;
+}
+
+#me {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px
+}
+.meme {
+	background-color: teal;
+	height: 200px;
+	width: 400px;
+}
+
+.fa {
+	background-color: teal;
+	height: 70px;
+}

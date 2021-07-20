@@ -1,0 +1,38 @@
+.header {
+	background-color: teal;
+	color: white;
+	text-align: center; 
+	padding: 30px;
+}
+
+.navbar {
+	display: flex;
+	background-color: black;
+	text-align: center;
+	padding: 10px 10px;
+}
+
+.navbar a {
+	color: white;
+	padding: 10px 20px;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.side {
+	border: 30px;
+	background-color: yellow;
+	padding: 20px;
+}
+
+.top {
+	border: 70px;
+	background-color: blue;
+	padding: 20px;
+}
+
+
+
